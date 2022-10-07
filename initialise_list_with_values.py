@@ -3,3 +3,5 @@ def initialise_list_with_values(n, val=0):
 
 
 initialise_list_with_values(5, 2) # [2, 2, 2, 2, 2]
+
+print(initialise_list_with_values(5, 2))
